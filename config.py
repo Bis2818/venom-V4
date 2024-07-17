@@ -9,7 +9,6 @@ OWNER_USERNAME=("Karanarjun80")
 
   #Enter your admin id here Get it from @missRose_bot by typing /info
 ADMIN_IDS=("1609642320")
-ADMIN_IDS=("1953410009")
 
 
 
